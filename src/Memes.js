@@ -5,7 +5,7 @@ module.exports = [
   , "If two witches watched two watches, which witch would watch which watch?"
   , "If vegetarians are trying to save the animals, why are they eating their food?"
   , "If a vampire bites a zombie, will the vampire turn into a zombie or the zombie turn into a vampire?"
-  , "If you accuse yourself in the game of Clue and are correct, did you win or lose?"
+  , "If you accuse yourself in the game of Clue, and are correct, did you win or lose?"
   , "If you put Lil Wayne and Lil John together, do you get a full size John Wayne?"
   , "I wonder how many animals we jumped on the backs of before we learned that horses were okay with it?"
   , "If you are lost in the middle of nowhere, how do you know that you are in the middle?"
