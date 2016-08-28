@@ -1,7 +1,6 @@
 module.exports = [
     "Is an argument between two vegans still called a beef?"
   , "If a 99 pound person eats 1 pound of nachos, does that make them 1 percent nacho?"
-  , "If Eve doomed the human race for an apple, what would she do for a klondike bar?"
   , "If two witches watched two watches, which witch would watch which watch?"
   , "If vegetarians are trying to save the animals, why are they eating their food?"
   , "If a vampire bites a zombie, will the vampire turn into a zombie, or the zombie turn into a vampire?"
@@ -40,7 +39,7 @@ module.exports = [
   , "Why do noses run, while feet smell?"
   , "If a car travels at the speed of light, what happens when you turn on the headlights?"
   , "Is it possible for fat people to skinny dip?"
-  , "Was the invention of the shovel ground breaking?"
+  , "Was the invention of the shovel, ground breaking?"
   , "If swearing is immature, why is referred to as 'adult language'?"
   , "If I am nobody, and nobody is perfect, am I perfect?"
   , "If tomatoes are a fruit, isn't ketchup technically a smoothie?"
@@ -50,5 +49,5 @@ module.exports = [
   , "Who coined the phrase, coined the phrase?"
   , "Do the transformers have car insurance, or health insurance?"
   , "If three out of five smokers die from smoking, are the other two immortal?"
-  , "If a redheat works at a bakery, does that make him a ginger bread man?"
+  , "If a red head works at a bakery, does that make him a ginger bread man?"
 ];
