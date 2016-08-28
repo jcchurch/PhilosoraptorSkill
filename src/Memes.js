@@ -40,7 +40,7 @@ module.exports = [
   , "If a car travels at the speed of light, what happens when you turn on the headlights?"
   , "Is it possible for fat people to skinny dip?"
   , "Was the invention of the shovel, ground breaking?"
-  , "If swearing is immature, why is referred to as 'adult language'?"
+  , "If swearing is immature, why is it referred to as 'adult language'?"
   , "If I am nobody, and nobody is perfect, am I perfect?"
   , "If tomatoes are a fruit, isn't ketchup technically a smoothie?"
   , "If the point of golf is to hit the ball the fewest number of times, does not playing, mean that you always win?"
