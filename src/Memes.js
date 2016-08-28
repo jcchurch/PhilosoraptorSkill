@@ -37,7 +37,7 @@ module.exports = [
   , "If a word in the dictionary is misspelled, how would we know?"
   , "If you are a security guard at a Samsung store, does that make you guardian of the galaxies?"
   , "If it is zero degrees outside, and the weatherman says it will be twice as cold tomorrow, what tempearture will it be?"
-  , "Why do noses run while feet smell?"
+  , "Why do noses run, while feet smell?"
   , "If a car travels at the speed of light, what happens when you turn on the headlights?"
   , "Is it possible for fat people to skinny dip?"
   , "Was the invention of the shovel ground breaking?"
