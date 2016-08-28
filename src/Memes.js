@@ -28,7 +28,7 @@ module.exports = [
   , "If a couple breaks off an engagement, is it called a near missus?"
   , "If the pope dies, is he promoted, or fired?"
   , "Once you read the dictionary, every other book is a remix."
-  , "If time is money, then are A T M's time machines?"
+  , "If time is money, then are A T M's, time machines?"
   , "If Barbie is so popular, why do you have to buy her friends?"
   , "What do golfers do when they retire?"
   , "If actions are stronger than words, then why is the pen mightier than the sword?"
