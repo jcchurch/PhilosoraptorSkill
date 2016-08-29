@@ -50,4 +50,5 @@ module.exports = [
   , "Do the transformers have car insurance, or health insurance?"
   , "If three out of five smokers die from smoking, are the other two immortal?"
   , "If a red head works at a bakery, does that make him a ginger bread man?"
+  , "Are grammar nazis anti semantic?"
 ];
